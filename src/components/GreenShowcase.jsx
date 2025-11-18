@@ -1,4 +1,4 @@
-import { Leaf, Camera, Tv, Joystick, Forest } from "lucide-react";
+import { Leaf, Camera, Tv, Joystick } from "lucide-react";
 import { motion } from "framer-motion";
 import SectionIntro from "./SectionIntro";
 
